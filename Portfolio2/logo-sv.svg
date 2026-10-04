@@ -1,0 +1,11 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">SV Logo</title>
+  <desc id="desc">A premium monogram logo with the initials SV.</desc>
+  <rect width="512" height="512" rx="116" fill="#18212F"/>
+  <path d="M70 188C70 122.83 122.83 70 188 70H442V324C442 389.17 389.17 442 324 442H70V188Z" fill="#F7F5EF"/>
+  <path d="M93 195C93 138.67 138.67 93 195 93H419V317C419 373.33 373.33 419 317 419H93V195Z" fill="#D7A629" stroke="#18212F" stroke-width="18"/>
+  <path d="M139 313C160.19 339.32 191.36 352 228 352C278.14 352 314 326.31 314 286.74C314 243.66 278.93 230.74 236.46 221.58C203.85 214.53 188.15 209.52 188.15 192.83C188.15 178.17 203.05 168.78 226.13 168.78C250.78 168.78 270.53 178.44 288.2 199.02L322.48 163.67C296.78 134.57 267.18 121 226.65 121C177.82 121 143.8 148.53 143.8 194.39C143.8 238.78 178.08 252.09 219.5 260.99C253.42 268.04 269.9 273.79 269.9 290.48C269.9 306.13 253.95 315.52 229.56 315.52C203.85 315.52 181.55 304.56 163.35 281.63L139 313Z" fill="#18212F"/>
+  <path d="M285 136H334.54L370.2 281.58L407.18 136H456L399.58 358H344.82L285 136Z" fill="#007C7A"/>
+  <path d="M101 389H410" stroke="#E15F4F" stroke-width="18" stroke-linecap="round"/>
+  <path d="M106 118L144 93H213" stroke="#F7F5EF" stroke-width="14" stroke-linecap="round"/>
+</svg>
